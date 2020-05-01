@@ -1,5 +1,9 @@
 ### QLDB-Essentials
 
+### WTF is QLDB
+
+>QLDB is a No-SQL(Semi-SQL & Semi-NoSQL) Append-only database that provides an immutable, transparent, and cryptographically verifiable transaction log ‎owned by a central authority. Since it is a No-SQL database, It has the ability to store a lot of semi-unstructured data using a document-oriented data model. Moreover, it Uses SQL like data structure(Tables and Rows) and a language(PartiQL). So, it can leverage current SQL developers to offer robust ways to query and manage data
+
 #### QLDB'S PartiQL Interface:
 >Basic SQL Like Queries are included in ```syntax.md``` file
 
